@@ -23,4 +23,4 @@
 
 ## 🚀 Let's Connect
 - LinkedIn: [linkedin.com/in/sanmay-sr](https://linkedin.com/in/sanmay-sr)
-- Website: [sanmaysr.in](https://sanmaysr.in)
+- Website: [sanmay-sr.tech](https://sanmay-sr.tech)

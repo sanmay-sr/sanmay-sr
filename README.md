@@ -8,10 +8,10 @@
 ---
 
 ## 🛠️ My Skills
-Languages: C, C++, Java, Python, JavaScript, TypeScript, SQL
-Technologies & Framework: ReactJS, Next.js, Node.js, Express, Tailwind CSS, Git, Supabase, Vite, TensorFlow, Scikit-learn.
-Databases:  MongoDB, PostgreSQL, MySQL (Basics).
-Domains: Scalable Web Development, Machine Learning (ML), Computer Vision (CV), Data Analysis, Natural Language Processing (NLP).
+-Languages: C, C++, Java, Python, JavaScript, TypeScript, SQL
+-Technologies & Framework: ReactJS, Next.js, Node.js, Express, Tailwind CSS, Git, Supabase, Vite, TensorFlow, Scikit-learn.
+-Databases:  MongoDB, PostgreSQL, MySQL (Basics).
+-Domains: Scalable Web Development, Machine Learning (ML), Computer Vision (CV), Data Analysis, Natural Language Processing (NLP).
 
 ---
 

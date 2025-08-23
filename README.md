@@ -18,4 +18,3 @@ Domains: Scalable Web Development, Machine Learning (ML), Computer Vision (CV), 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmay-sr&layout=compact&theme=gruvbox)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmay-sr&show_icons=true&theme=gruvbox)
